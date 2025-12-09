@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+Archived on GitHub and moved to https://git.sr.ht/~gary_moore/windows-style-messenger
+
+    # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
